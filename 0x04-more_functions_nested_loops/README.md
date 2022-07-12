@@ -3,7 +3,8 @@ More functions, more nested loops
 Project done during ALX Software Engineering program. It aims to learn about nested loops in C language.
 
 Technologies
-All files are compiled on Ubuntu 20.04 LTS using gcc
+
+All files are compiled on Ubuntu 20.04 LTS using gcc 
 All codes use the Betty style
 
 Files
@@ -24,3 +25,5 @@ Filename	Description
 10-print_triangle.c	Prints a triangle
 100-prime_factor.c	Finds and prints the largest prime factor of the number 612852475143
 101-print_number.c	Prints an integer
+Footer
+
